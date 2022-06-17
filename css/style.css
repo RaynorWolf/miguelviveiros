@@ -104,7 +104,7 @@ section {
 }
 
 .right-box img {
-    border-radius: 10%;
+    border-radius: 25px;
     width: 100%;
     border: 7px solid #7a0000;
     background-color: #7a0000;
@@ -115,7 +115,7 @@ section {
 }
 
 .center-box img {
-    border-radius: 10%;
+    border-radius: 25px;
     width: 100%;
     border: 7px solid #7a0000;
     background-color: #7a0000;
@@ -166,6 +166,7 @@ section {
 	margin-bottom: 2%;
     border: 7px solid #7a0000;
     background-color: #7a0000;
+    border-radius: 25px;
 }
 
 hr {
@@ -199,12 +200,12 @@ hr {
     }
     
     .right-box img {
-        border-radius: 250px;
+        border-radius: 25px;
         width: 50%;
     }
 
     .center-box img {
-        border-radius: 250px;
+        border-radius: 25px;
         width: 50%;
     }
     
