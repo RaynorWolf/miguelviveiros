@@ -121,7 +121,7 @@ section {
     background-color: #7a0000;
 }
 
-.left-box h1, .center-box-text h1, .title {
+.left-box h2, .center-box-text h2, .title {
     text-transform: uppercase;
 }
 
